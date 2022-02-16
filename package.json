@@ -1,0 +1,11 @@
+{
+    "name": "myproject",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "serverStart": "node server.js",
+    },
+    "proxy": "http://localhost:3000"
+}
