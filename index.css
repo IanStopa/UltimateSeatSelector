@@ -11,9 +11,9 @@
   padding-top: 20px;
 }
 
-.bottom{
- bottom: 0;
-
+.top{
+  top: auto;
+  padding-bottom: 50%;
 }
 .left {
   left: 0;
@@ -23,6 +23,22 @@
 }
 .row{
   padding: 1px;
+}
+.center{
+  width: 50%;
+  padding: 1px;
+  margin-bottom: 5%;
+  margin-left: 75%;
+}
+.rowcenterL{
+  width: 50%;
+  padding: 1px;
+  margin-bottom: 5%;
+  margin-left: 50%;
+}
+.rowcenterR{
+  margin-top: 5%;
+ ;
 }
 .topcolumnL{
   float:left;
@@ -220,6 +236,48 @@
   outline-color: black;
 }
 #Box24 {
+  width: 100px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+  outline-color: black;
+}
+#Box25 {
+  width: 100px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+  outline-color: black;
+}
+#Box26 {
+  width: 100px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+  outline-color: black;
+}
+#Box27 {
+  width: 100px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+  outline-color: black;
+}
+#Box28 {
+  width: 100px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+  outline-color: black;
+}
+#Box29 {
+  width: 100px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+  outline-color: black;
+}
+#Box30 {
   width: 100px;
   padding: 10px;
   border: 5px solid gray;
