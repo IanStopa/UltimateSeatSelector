@@ -214,3 +214,57 @@ function myFunction24() {
         document.getElementById("Box24").innerHTML = firstName + " " + lastName;
 
         }
+function myFunction25() {
+    var x;
+        let firstName = prompt("First Name: ")
+        let lastName = prompt("Last Name: ")
+        console.log(firstName);
+        console.log(lastName);
+        document.getElementById("Box25").innerHTML = firstName + " " + lastName;
+
+        }
+function myFunction26() {
+    var x;
+        let firstName = prompt("First Name: ")
+        let lastName = prompt("Last Name: ")
+        console.log(firstName);
+        console.log(lastName);
+        document.getElementById("Box26").innerHTML = firstName + " " + lastName;
+
+        }
+function myFunction27() {
+    var x;
+        let firstName = prompt("First Name: ")
+        let lastName = prompt("Last Name: ")
+        console.log(firstName);
+        console.log(lastName);
+        document.getElementById("Box27").innerHTML = firstName + " " + lastName;
+
+        }
+function myFunction28() {
+    var x;
+        let firstName = prompt("First Name: ")
+        let lastName = prompt("Last Name: ")
+        console.log(firstName);
+        console.log(lastName);
+        document.getElementById("Box28").innerHTML = firstName + " " + lastName;
+
+        }
+function myFunction29() {
+    var x;
+        let firstName = prompt("First Name: ")
+        let lastName = prompt("Last Name: ")
+        console.log(firstName);
+        console.log(lastName);
+        document.getElementById("Box29").innerHTML = firstName + " " + lastName;
+
+        }
+function myFunction30() {
+    var x;
+        let firstName = prompt("First Name: ")
+        let lastName = prompt("Last Name: ")
+        console.log(firstName);
+        console.log(lastName);
+        document.getElementById("Box30").innerHTML = firstName + " " + lastName;
+
+        }
